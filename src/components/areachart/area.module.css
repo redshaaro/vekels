@@ -1,0 +1,71 @@
+.barCardContainer{
+    background-color: white;
+    padding: 20px 25px;
+    border-radius: 14px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    -ms-border-radius: 14px;
+    -o-border-radius: 14px;
+    margin-right:1rem;
+    
+
+}
+.cardheader{
+    margin-bottom: 10px;
+    color: #242731;
+    font-weight: 400;
+    
+
+}
+.left{
+     
+    background-color: #F5F4F6;
+    border-radius: 24px;
+
+
+}
+.cardheader span{
+    font-weight: 600;
+}
+
+.tools{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.span{
+    margin:1rem;
+   color: #5F6165;
+   cursor: pointer;
+   font-weight: 500;
+    
+}
+.specialbtn{
+     
+    padding: 3px;
+    display: inline-block;
+    
+    color: #ffff;
+    padding: 10px 12px;
+    width: 53px;
+    height: 40px;
+     
+    background-color: #FF764C;
+
+
+
+    
+ 
+
+ 
+border-radius: 24px;
+ 
+    
+    
+}
+.right p{
+    color: #5F6165;
+     
+}

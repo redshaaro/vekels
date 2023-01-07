@@ -1,0 +1,46 @@
+.sideContainer{
+    
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 643px;
+    justify-content: center;
+    position: relative;
+    color:#A6A7AB;
+     
+}
+.top{
+    position: absolute;
+    top:5px;
+     
+}
+.bottom{
+    position: absolute;
+    bottom:40px;
+}
+.top div{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    cursor: pointer;
+    
+     
+}
+.top div i{
+    margin-right:5px
+}
+
+.bottom div{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+   
+    bottom: 0;
+    cursor:pointer;
+     
+
+}
+.bottom div i {
+    margin-right:5px;
+}

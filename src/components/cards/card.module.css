@@ -1,0 +1,56 @@
+.cardContainer {
+    background-color: white;
+    width: fit-content;
+    margin-top: 2rem;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+}
+
+.top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.top i {
+    color: gray;
+}
+
+.sub {
+    color: grey;
+    margin-top: 5px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.left i {
+    margin-right: 5px;
+    color: grey;
+}
+
+.left span {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: grey;
+}
+
+.special {
+    color: black;
+    font-weight: 700;
+}
+
+.rightp {
+    color: grey;
+
+}
